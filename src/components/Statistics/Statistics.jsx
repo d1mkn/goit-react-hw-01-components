@@ -3,8 +3,7 @@ import {
   Section,
   StatTitle,
   StatList,
-  StatListItem,
-  randomColor,
+  StatListItem
 } from './Statistics.styled';
 
 function randomHexColor() {

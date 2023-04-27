@@ -21,6 +21,9 @@ export const OnlineStatus = styled.span`
 
       case false:
         return '#FD534F';
+
+      default:
+        return '#fff';
     }
   }};
 `;
